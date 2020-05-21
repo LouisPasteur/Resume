@@ -1,1 +1,5 @@
+!*.md
+!*.cls
+!*.tex
+fontawesome.pdf
 *.*
