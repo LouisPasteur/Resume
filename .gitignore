@@ -1,5 +1,5 @@
-!*.md
-!*.cls
-!*.tex
-fontawesome.pdf
-*.*
+*.gz
+*.aux
+*.fdb_latexmk
+*.fls
+*.log

@@ -1,19 +1,10 @@
-[[**JOSHUA**]{style="color: white"}]{style="background-color: black"}
+# Resume for Josh Jackson
+Credit for the template:
+  * Jan Vorisek (jan@vorisek.me)
+  * Based on a template by Jan Küster (info@jankuester.com)
+  * Modified for LaTeX Templates by Vel (vel@LaTeXTemplates.com)
 
-[[**JACKSON**]{style="color: white"}]{style="background-color: black"}
+[Source For Template](https://www.latextemplates.com/template/developer-cv)
 
-Software Engineer II
+[View Current Resume](/src/Resume_Josh_Jackson.pdf)
 
-\
-\
-\
-
-I am a passionate technology geek seeking to push my skills and
-abilities to new levels. My career has exposed me to a broad range of
-technologies, and it has been a humbling journey. I love learning about
-practically any topic, and I thrive in enviornments where learning is a
-constant requirement. I'm currently focused on sharpening my low-level
-programming abilities and reducing the number of abstractions between
-myself and the bare metal.\
-
-5.5
